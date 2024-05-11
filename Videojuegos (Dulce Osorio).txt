@@ -1,0 +1,106 @@
+<html>
+<head>
+	<title> Los mejores videojuegos del 2019 </title>
+
+	<style> 
+table, th, td{
+border: 1px solid black;
+border-collapse: collapse;}
+td {text-align: center;}
+	</style>
+
+</head>
+
+<body bgcolor=#2DB07F>
+
+<center>
+<font face="Wide Latin" color=#0E582B size="7px">  Los mejores videojuegos del 2019 </font>
+</center>
+
+<br>
+<br>
+	<font face="Cooper Black" color=#200973>  <h1> 1. Sekiro: Shadows Die Twice </h1> </font>
+<br>
+<font face="Baskerville Old Face" size="5px">
+Sekiro: Shadows Die Twice es una aventura de acción intensa en tercera persona ambientada en el sangriento Japón del siglo XIV.  Te pondrás en la piel de un guerrero deshonrado regresado del borde de la muerte cuya misión es rescatar a su maestro y vengarse de su archinémesis.
+Y se puede conseguir en PlayStation.
+<br>
+<br>
+<center><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg?t=1678991267"
+width="300"
+height=220"> 
+<br>
+<br>
+<a href="https://www.playstation.com/es-gt/games/sekiro-shadows-die-twice/"
+target="blank"> Para más información </a>
+</center>
+</font>
+
+<br>
+	<font face="Cooper Black" color=#200973>  <h1> 2. Death Stranding </h1> </font>
+<br>
+<font face="Baskerville Old Face" size="5px">
+ Sam Bridges debe enfrentarse a un mundo transformado por el Death Stranding. Con los restos desconectados de nuestro futuro en sus manos, se embarca en un viaje para volver a conectar paso a paso el mundo destrozado.
+Y se puede jugar en XBOX.
+<br>
+<br>
+<center> <img src=" https://store-images.s-microsoft.com/image/apps.62172.13663829610144979.e276021e-d4cd-43ae-bc1d-db22240213c6.f00d6a45-0043-4ec7-a73d-1d7bf3f1107a?q=90&w=177&h=265"
+width="220"
+height="300">
+<br>
+<br>
+<a href="https://www.xbox.com/es-AR/games/store/death-stranding/9NKCHZZTL308/0010"
+target="blank"> Para más información </a>
+</center>
+</font>
+
+<br>	
+<font face="Cooper Black" color=#200973>  <h1> 3. mimi Mortal Kombat 11 </h1> </font>
+<br>
+<font face="Baskerville Old Face" size="5px">
+Mortal Kombat está de vuelta mejor que nunca con la siguiente evolución de la emblemática franquicia. Con las nuevas variaciones de personaje tendrás un control sin precedentes para personalizar a tus luchadores y hacerlos únicos. Y se puede jugar en XBOX.
+<br>
+<br>
+<center> <img src="https://store-images.s-microsoft.com/image/apps.9688.70804610839547354.8da93c46-fd13-4b16-8ebe-e8e02c53d93e.09c2e91e-28bd-4f6f-bfd6-79d6b241667a?q=90&w=177&h=265"
+width="220"
+height="300">
+<br>
+<br>
+ <a href="https://www.xbox.com/es-GT/games/store/mortal-kombat-11/btc0l0bw6lwc"
+target="blank"> Para más información </a>
+</center>
+</font>
+
+<br>
+<br>
+
+
+<center>
+<table style="width=600px">
+<caption> <h2> Comparación de precios </h2> </caption>
+	<tr>
+<th> Juego </th>
+<th> Precio </th>
+	</tr>
+
+	<tr>
+<td>Sekiro: Shadows Die Twice </td>
+<td> $59.99 </td>
+	</tr>
+	
+	<tr>
+<td>Death Stranding </td>
+<td> $429.00 </td> 
+	</tr>
+
+	<tr>
+<td>Mortal Kombat 11 </td>
+<td> $65.10 </td> 
+	</tr>
+
+</table>
+</center>
+
+<br>
+</body>
+</html>
